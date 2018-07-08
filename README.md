@@ -11,5 +11,5 @@ Project written in CodeIgniter for we-conekt enterprises
 
 - mobile:9538443628
 
-- email:info@weconekt.com
+- email:info@we-conekt.com
 
